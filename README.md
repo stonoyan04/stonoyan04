@@ -1,4 +1,4 @@
-# 💻 About Me:
+# 🚀 About Me:
 Hi 👋, I'm Smbat Tonoyan,
 a Software Engineer from Armenia.
 
