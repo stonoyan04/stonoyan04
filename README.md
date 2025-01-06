@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm Smbat Tonoyan
-A Software Engineer from Armenia
+Hi 👋, I'm Smbat Tonoyan,
+a Software Engineer from Armenia.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/stonoyan04) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stonoyan04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smbat-tonoyan-2388b0248) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/stonoyan04) 
